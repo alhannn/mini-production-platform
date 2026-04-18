@@ -1,0 +1,36 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Node
+node_modules/
+dist/
+build/
+npm-debug.log*
+
+# Environment files
+.env
+.env.*
+
+# Logs
+*.log
+
+# Coverage / test output
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Docker
+*.pid
+
+# Misc
+*.tmp
